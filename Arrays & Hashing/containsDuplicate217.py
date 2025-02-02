@@ -15,7 +15,7 @@ class Solution:
 #then time complexity would be O(n2)
 
 #If you use the sorting method first and then compare the elements
-#then time complecity would O(nlogn)
+#then time complexity would O(nlogn)
 
 #If you use a HashSet as shown in the above code 
 #Time complexity will be O(n)
