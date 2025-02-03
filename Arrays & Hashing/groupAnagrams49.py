@@ -8,7 +8,7 @@ class Solution:
             for c in s:
                 count[ord(c) - ord('a')] += 1
             
-            res[tuple(count)].append(s)
+            res[tuple(count)].append(s) # You are converting the count list into a tuple because lists cannot be keys in dictionaries
         
         return list(res.values())
     
