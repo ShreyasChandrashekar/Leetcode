@@ -9,7 +9,7 @@ The NeetCode 150 is a curated list of **essential** problems covering a variety 
 
 | Category         | Total | Solved | Remaining | Link |
 |----------------|-------|--------|----------|------|
-| Arrays & Hashing | 15 | 2 | 14 | [View Problems](https://neetcode.io/roadmap) |
+| Arrays & Hashing | 15 | 4 | 14 | [View Problems](https://neetcode.io/roadmap) |
 | Two Pointers    | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Sliding Window  | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Stack          | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
@@ -18,7 +18,7 @@ The NeetCode 150 is a curated list of **essential** problems covering a variety 
 | Trees         | 15 | 0 | 15 | [View Problems](https://neetcode.io/roadmap) |
 | Graphs        | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Dynamic Programming | 15 | 0 | 15 | [View Problems](https://neetcode.io/roadmap) |
-| Total         | 150 | 2 | 148 | - |
+| Total         | 150 | 4 | 146 | - |
 
 ## 🛠 How to Use
 1. Clone this repository:
