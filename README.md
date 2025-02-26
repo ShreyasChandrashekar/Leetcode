@@ -9,16 +9,16 @@ The NeetCode 150 is a curated list of **essential** problems covering a variety 
 
 | Category         | Total | Solved | Remaining | Link |
 |----------------|-------|--------|----------|------|
-| Arrays & Hashing | 15 | 5 | 14 | [View Problems](https://neetcode.io/roadmap) |
-| Two Pointers    | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
-| Sliding Window  | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
-| Stack          | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
-| Binary Search  | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
+| Arrays & Hashing | 9 | 9 | 0 | [View Problems](https://neetcode.io/roadmap) |
+| Two Pointers    | 5 | 5 | 0 | [View Problems](https://neetcode.io/roadmap) |
+| Sliding Window  | 6 | 6 | 0 | [View Problems](https://neetcode.io/roadmap) |
+| Stack          | 7 | 3 | 4 | [View Problems](https://neetcode.io/roadmap) |
+| Binary Search  | 7 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Linked List    | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Trees         | 15 | 0 | 15 | [View Problems](https://neetcode.io/roadmap) |
 | Graphs        | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Dynamic Programming | 15 | 0 | 15 | [View Problems](https://neetcode.io/roadmap) |
-| Total         | 150 | 5 | 147 | - |
+| Total         | 150 | 23 | 127 | - |
 
 ## 🛠 How to Use
 1. Clone this repository:
