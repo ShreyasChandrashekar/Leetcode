@@ -18,7 +18,7 @@ The NeetCode 150 is a curated list of **essential** problems covering a variety 
 | Trees         | 15 | 0 | 15 | [View Problems](https://neetcode.io/roadmap) |
 | Graphs        | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Dynamic Programming | 15 | 0 | 15 | [View Problems](https://neetcode.io/roadmap) |
-| Total         | 150 | 23 | 127 | - |
+| Total         | 150 | 23 | 130 | - |
 
 ## 🛠 How to Use
 1. Clone this repository:
