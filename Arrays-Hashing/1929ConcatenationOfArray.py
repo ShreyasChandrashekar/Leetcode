@@ -1,5 +1,10 @@
-print("hello world  from python")
-
-print("Just a test to see if I can run python code in this environment")
-
-print("I am able to run python code here, which is great!")
+class Solution:
+    def getConcatenation(self, nums: List[int]) -> List[int]:
+        m = len(nums)
+        nums[m:] = nums[:m]
+        return nums
+    
+# Test cases
+solution = Solution()
+print(solution.getConcatenation([1, 2, 1]))        # Expected: [1, 2, 1, 1, 2, 1]
+print(solution.getConcatenation([1, 3, 2, 1]))     # Expected: [1, 3, 2, 1, 1, 3, 2, 1]
