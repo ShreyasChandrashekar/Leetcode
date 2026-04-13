@@ -11,7 +11,7 @@ The NeetCode 150 is a curated list of **essential** problems covering a variety 
 |----------------|-------|--------|----------|------|
 | Arrays & Hashing | 9 | 9 | 9 | [View Problems](https://neetcode.io/roadmap) |
 | Two Pointers    | 5 | 5 | 13 | [View Problems](https://neetcode.io/roadmap) |
-| Sliding Window  | 6 | 6 | 9 | [View Problems](https://neetcode.io/roadmap) |
+| Sliding Window  | 6 | 10 | 9 | [View Problems](https://neetcode.io/roadmap) |
 | Stack          | 7 | 7 | 0 | [View Problems](https://neetcode.io/roadmap) |
 | Binary Search  | 7 | 2 | 5 | [View Problems](https://neetcode.io/roadmap) |
 | Linked List    | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
