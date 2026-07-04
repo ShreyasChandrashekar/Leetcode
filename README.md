@@ -16,7 +16,7 @@ The NeetCode 150 is a curated list of **essential** problems covering a variety 
 | Binary Search  | 7 | 7 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Linked List    | 10 | 1 | 10 | [View Problems](https://neetcode.io/roadmap) |
 | Trees         | 15 | 0 | 15 | [View Problems](https://neetcode.io/roadmap) |
-| Graphs        | 10 | 0 | 10 | [View Problems](https://neetcode.io/roadmap) |
+| Graphs        | 10 | 0 | 11 | [View Problems](https://neetcode.io/roadmap) |
 | Dynamic Programming | 15 | 0 | 15 | [View Problems](https://neetcode.io/roadmap) |
 | Total         | 150 | 23 | 130 | - |
 
